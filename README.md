@@ -1,5 +1,10 @@
 # Data-analytics-project
 AI-powered collections system – analytics project
+
+[Delinquency_prediction_dataset.xlsx](https://github.com/user-attachments/files/24695891/Delinquency_prediction_dataset.xlsx)
+[Tata_Data_Analytics_Glossary (1).docx](https://github.com/user-attachments/files/24695890/Tata_Data_Analytics_Glossary.1.docx)
+[Updated_Dataset_Description_Guide.pdf](https://github.com/user-attachments/files/24695889/Updated_Dataset_Description_Guide.pdf)
+
 Task 1 
 In Task 1, the focus was on understanding and preparing Geldium’s customer dataset before any modeling. The dataset was reviewed to understand its structure, key variables, and overall data quality. Missing and inconsistent values were identified (such as gaps in income, credit score, and loan balance fields) and handled using appropriate imputation methods like median replacement.
 Exploratory analysis was then performed to detect patterns, anomalies, and early risk indicators. Pivot tables and summary statistics were used to compare delinquent and non-delinquent customers. This analysis revealed that missed payments, low credit scores, and high credit utilization were the strongest indicators of delinquency risk. The outcome of Task 1 was a clean, reliable dataset and a clear set of risk factors to guide predictive modeling and business decisions.
@@ -13,8 +18,6 @@ Task 3
 In Task 3, the focus shifted from technical analysis to business communication and decision support. The predictive insights from Task 1 and the modeling framework from Task 2 were translated into a stakeholder-ready report for Geldium’s Head of Collections.
 The task involved summarizing high-risk customer segments and clearly identifying the top drivers of delinquency, including missed payments, low credit scores, and high credit utilization. These insights were then converted into a SMART business recommendation, proposing a targeted early-outreach program aimed at reducing delinquency through proactive intervention.
 An ethics and responsible AI section was also developed, addressing fairness risks, explainability, and data responsibility. The final deliverable was a concise, professional business report outlining predictive insights, operational recommendations, and ethical considerations to guide Geldium’s collections strategy
-
-
 
 Task 4 
 In Task 4, the objective was to design a high-level concept for an autonomous, responsible AI-powered collections system and present it in the form of an executive-style PowerPoint deck. This task focused on turning predictive insights and business recommendations into a scalable system strategy rather than building technical architecture.
