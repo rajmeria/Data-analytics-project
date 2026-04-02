@@ -1,4 +1,4 @@
-# Data-analytics-project
+## Data-analytics-project
 AI-powered collections system – analytics project
 
 [Delinquency_prediction_dataset.xlsx](https://github.com/user-attachments/files/24695891/Delinquency_prediction_dataset.xlsx)
